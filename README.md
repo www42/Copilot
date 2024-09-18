@@ -8,7 +8,16 @@
 
 
 
+### Lab environment
+
+[Xtreme Labs](https://labs.xtremelabs.io/)
+
+* Log in / register
+* Redeem access code
+
+
 ### Lab 1 Resources
+
 
 [Build message extensions for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-message-extension-bot)
 
