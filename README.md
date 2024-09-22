@@ -1,4 +1,7 @@
-# Copilot
+# M365 Copilot
+
+[Microsoft Graph documentation | Microsoft Learn](https://learn.microsoft.com/en-us/graph/)
+
 
 ## MS-4010 Build connectors and plugins for Microsoft Copilot for Microsoft 365
 
@@ -18,6 +21,7 @@
 
 ### Lab 1 Resources
 
+[Copilot extensibility stack | youtube](https://www.youtube.com/watch?v=cpZl2-mlB74)
 
 [Build message extensions for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-message-extension-bot)
 
